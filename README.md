@@ -3,7 +3,7 @@
  Machine Learning and Artificial Intelligence \
  Natural Language Processing and Sentimental Analysis \
  Quantitative Finance and High Frequency Trading \
- Investment Banking and stonks.\
+ Investment Banking and stonks.
 - 🌱 Education: \
 3rd year at UofT studying CS and Economics with a focus on Artificial Intelligence.
 - 📫 How to reach me: \
