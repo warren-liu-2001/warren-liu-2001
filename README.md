@@ -7,7 +7,7 @@
 - 🌱 Education: \
 3rd year at UofT studying CS and Economics with a focus on Artificial Intelligence.
 - 📫 How to reach me: \
-hmu at my email: warrenliu2001@gmail.com
+hmu at my email: warrentwliu@gmail.com
 
 <!---
 warren-liu-2001/warren-liu-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
